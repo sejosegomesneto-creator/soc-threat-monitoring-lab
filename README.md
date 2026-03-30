@@ -9,7 +9,7 @@ Dashboard profissional de monitoramento de segurança (SOC) desenvolvido com Gra
 |---------|-------|
 | Total de Eventos | 7+ logs |
 | Eventos Críticos | 2 |
-| IPs Atacantes | 4 |
+| IPs Atacantes | 5 |
 | Tipos de Ataque | Bruteforce, Port Scan, Malware, SQL Injection |
 
 ## 🛠️ Tecnologias
@@ -39,3 +39,6 @@ export GRAFANA_TOKEN="seu-token-aqui"
 
 **José Gomes**
 [LinkedIn](https://www.linkedin.com/in/jose-barbosa-ti)
+
+## 📸 Dashboard Preview
+
